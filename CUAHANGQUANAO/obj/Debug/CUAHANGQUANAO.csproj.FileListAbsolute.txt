@@ -1,0 +1,27 @@
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\bin\Debug\CUAHANGQUANAO.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.DANGNHAP.resources
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.GIAODIEN.resources
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\bin\Debug\CUAHANGQUANAO.exe
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\bin\Debug\CUAHANGQUANAO.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.exe
+c:\users\admin\documents\visual studio 2013\Projects\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.pdb
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\bin\Debug\CUAHANGQUANAO.exe.config
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.exe
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.pdb
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.DANGNHAP.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.GIAODIEN.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.SanPham.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\bin\Debug\CUAHANGQUANAO.exe
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\bin\Debug\CUAHANGQUANAO.pdb
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.HoaDon.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.KhachHang.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.NCC.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.NhanVien.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.NhomHang.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.PhieuNhap.resources
+C:\Users\ADMIN\Desktop\TTN\CUAHANGQUANAO\CUAHANGQUANAO\obj\Debug\CUAHANGQUANAO.csprojResolveAssemblyReference.cache
